@@ -27,6 +27,16 @@ https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMT
 
 https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MjRfMjU1%2FMDAxNjU2MDc2OTQwNDUw.whT9GNWjCdX0i99BxXO9FI-CJlW7HhuWyKo67n7sOsgg.LRWbqCv_jF2ewtj7s6tP-j6faXqDzCQDRBupPk1VaVUg.JPEG.kong_x_%2F1656076829040.jpg&type=sc960_832
 
+# 매장 이름 및 매장 소개 예시.
+
+플레어문
+동성로에 위치한 야경이 황홀한 칵테일바 입니다. 크리스마스 시즌을 위한 매장 실내 리모델링을 마쳤습니다. 좋은 연휴에 함께하기 좋은 칵테일바가 되겠습니다. 감사합니다.
+
+도파민
+중구 교동에 위치한 신상 칵테일바 입니다! 인스타그램을 통한 이벤트로 경품 받아가세요~ 현재 대구시 칵테일 코인 이벤트 진행중입니다.
+
+나빌레라
+다양한 위스키와 매장 고유의 칵테일 레시피를 보유한 대구 최대규모 칵테일바. 매장 수용인원 200명!
 
 
 서버주소 https://api.daegucocktail.kro.kr
