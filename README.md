@@ -46,6 +46,29 @@ https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMj
 
 서버주소 https://api.daegucocktail.kro.kr
 
+
+# title(메뉴이름), image(메뉴사진), desc(메뉴 가격, 레시피 예시)
+
+
+title: 가미가제(Kamikaze)
+
+image: 
+https://www.google.com/url?sa=i&url=http%3A%2F%2Fdarkone.egloos.com%2F1514433&psig=AOvVaw1T75r8yjJ8wurHKFFWgeJd&ust=1670091936330000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiR5r3H2_sCFQAAAAAdAAAAABAp
+desc: 
+잔 20000원
+[잔-3온스 칵테일(90ml), 보드카 35 ml, 트리플 섹 15 ml, 라임주스 15 ml]
+일본식 이름이지만 미국이 원산이며 근래에 개봉된 영화 '칵테일로 우리 나라에 많이 알려져 있다. 보드카의 무색,무취,무미한 특성 때문에 마실 때에는 부드러우나 마시고 난 후 짜릿한 취기를 느끼게 한다. 쉐이커에 얼음과 재료를 넣고 가볍게 흔들어 잔에 따른다.
+
+
+title: 갓 파더(God Father)
+
+image: 
+https://cocktail-bucket.s3.ap-northeast-2.amazonaws.com/TB_COCK_MASTER/24.%EA%B0%93%ED%8C%8C%EB%8D%94.jpg
+desc: 
+잔 25000원
+[잔-6온스 락(180ml), 스카치위스키 40 ml, 아마레또 20 ml] 
+스카치위스키의 향과 아모드 리큐르인 아마에또향이 잘 어울어진 칵테일이다. 스카치위스키를 보드카로 바꾸면 (갓 마더(God Mother))로 이름이 달라진다. 잔에 얼음과 재료를 넣고 두세번 젓는다.
+
 ## store
 
 get
