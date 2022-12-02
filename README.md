@@ -15,6 +15,10 @@ https://www.javatpoint.com/kotlin-android-google-map-search-location
 # Drinkies 로고
 ![drinkies_logo](https://user-images.githubusercontent.com/33747618/205372667-6e80be5f-abc7-43a2-b8ad-04ce7a6b8dfc.PNG)
 
+# 평점 이미지
+![rate](https://user-images.githubusercontent.com/33747618/205381880-c552236b-690e-4513-b7de-2615a1d18536.PNG)
+
+
 
 # 매장사진
 https://img.gqkorea.co.kr/gq/2017/04/style_59030a6f0ad5c.jpg
