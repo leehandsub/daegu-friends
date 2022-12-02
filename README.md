@@ -17,3 +17,7 @@ https://steemitimages.com/640x0/https://static.tasteem.io/uploads/2698/post/1259
 https://steemitimages.com/640x0/https://static.tasteem.io/uploads/image/image/48167/7dc08f77-fe2c-4ec4-9a19-591350d0d366.png
 
 서버주소 https://api.daegucocktail.kro.kr
+
+##store
+get
+/store
