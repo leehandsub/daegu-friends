@@ -69,6 +69,28 @@ https://cocktail-bucket.s3.ap-northeast-2.amazonaws.com/TB_COCK_MASTER/24.%EA%B0
 [잔-6온스 락(180ml), 스카치위스키 40 ml, 아마레또 20 ml] 
 스카치위스키의 향과 아모드 리큐르인 아마에또향이 잘 어울어진 칵테일이다. 스카치위스키를 보드카로 바꾸면 (갓 마더(God Mother))로 이름이 달라진다. 잔에 얼음과 재료를 넣고 두세번 젓는다.
 
+
+## title: 골든 드림(Golden Dream)
+
+### image: 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EA%25B3%25A8%25EB%2593%25A0_%25EB%2593%259C%25EB%25A6%25BC&psig=AOvVaw1MTzX-dv5sWtM9lG1AJis0&ust=1670092708254000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDGp6rK2_sCFQAAAAAdAAAAABAD
+### desc: 
+잔 28000원
+[잔-4온스 칵테일(120ml), 갈리아노 - 30 ml, 트리플 섹 - 15ml, 오렌지주스 - 15ml, 크림 - 15ml] 
+갈리아노 베이스 칵테일 중에서 매우 유명한 칵테일이다. 쉐이커에 얼음과 재료를 넣고 잘 흔들어 잔에 따른다.
+
+
+## title: 글라스 호퍼(Grass hopper)
+
+### image:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdishesdelish.com%2Fgreat-jumping-grasshopper-cocktail%2F&psig=AOvVaw0MTTMePh1jdvpdjFehOWhn&ust=1670092751576000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiIncPK2_sCFQAAAAAdAAAAABAH
+### desc: 
+잔 25000원
+[잔-4온스 칵테일(120ml), 크레임 드 카카오(화이트) - 20ml, 크레임 드 멘트(그린) - 20ml, 생크림 - 20ml] 
+아름다운 녹색을 띠고 있어 붙여진 이름이다. 페퍼민트와 생크림이 만들어내는 상쾌한 단맛과 카카오의 향기로운 풍미가 믹스되어 감칠맛도 부드러워 식후의 칵테일로 유명하다. 원래는 섞지 않고 푸스카페 스타일이었다.
+
+
+
 ## store
 
 get
