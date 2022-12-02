@@ -53,7 +53,8 @@ https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMj
 ## title: 가미가제(Kamikaze)
 
 ### image: 
-https://www.google.com/url?sa=i&url=http%3A%2F%2Fdarkone.egloos.com%2F1514433&psig=AOvVaw1T75r8yjJ8wurHKFFWgeJd&ust=1670091936330000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiR5r3H2_sCFQAAAAAdAAAAABAp
+http://pds9.egloos.com/pds/200803/13/40/e0059340_47d90838255b4.jpg
+
 ### desc: 
 잔 20000원
 [잔-3온스 칵테일(90ml), 보드카 35 ml, 트리플 섹 15 ml, 라임주스 15 ml]
@@ -73,7 +74,7 @@ https://cocktail-bucket.s3.ap-northeast-2.amazonaws.com/TB_COCK_MASTER/24.%EA%B0
 ## title: 골든 드림(Golden Dream)
 
 ### image: 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EA%25B3%25A8%25EB%2593%25A0_%25EB%2593%259C%25EB%25A6%25BC&psig=AOvVaw1MTzX-dv5sWtM9lG1AJis0&ust=1670092708254000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDGp6rK2_sCFQAAAAAdAAAAABAD
+https://upload.wikimedia.org/wikipedia/commons/1/15/Godlen-Dream_Mixed_Drink_Cocktail_%282360538105%29.jpg
 ### desc: 
 잔 28000원
 [잔-4온스 칵테일(120ml), 갈리아노 - 30 ml, 트리플 섹 - 15ml, 오렌지주스 - 15ml, 크림 - 15ml] 
@@ -83,7 +84,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25E
 ## title: 글라스 호퍼(Grass hopper)
 
 ### image:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fdishesdelish.com%2Fgreat-jumping-grasshopper-cocktail%2F&psig=AOvVaw0MTTMePh1jdvpdjFehOWhn&ust=1670092751576000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiIncPK2_sCFQAAAAAdAAAAABAH
+https://dishesdelish.com/wp-content/uploads/2020/03/Grasshopper-cocktail-closeup-lighter-1.jpg.webp
 ### desc: 
 잔 25000원
 [잔-4온스 칵테일(120ml), 크레임 드 카카오(화이트) - 20ml, 크레임 드 멘트(그린) - 20ml, 생크림 - 20ml] 
