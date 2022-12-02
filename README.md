@@ -11,6 +11,11 @@ https://www.acouplecooks.com/red-cocktails/
 https://www.javatpoint.com/kotlin-android-google-map-search-location
 
 ## 이미지 주소
+
+# Drinkies 로고
+![drinkies_logo](https://user-images.githubusercontent.com/33747618/205372667-6e80be5f-abc7-43a2-b8ad-04ce7a6b8dfc.PNG)
+
+
 # 매장사진
 https://img.gqkorea.co.kr/gq/2017/04/style_59030a6f0ad5c.jpg
 https://steemitimages.com/640x0/https://static.tasteem.io/uploads/2698/post/12599/content_3f57603e-e5b4-4488-99ee-e6f1fa63de5a.png
