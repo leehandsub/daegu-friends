@@ -64,6 +64,8 @@ https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMj
 ### image: 
 http://pds9.egloos.com/pds/200803/13/40/e0059340_47d90838255b4.jpg
 
+수정본 : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLSUHsk4DD5JvyMuHUb9nlHAzcQq1q7cuwg&usqp=CAU
+
 ### desc: 
 잔 20000원
 [잔-3온스 칵테일(90ml), 보드카 35 ml, 트리플 섹 15 ml, 라임주스 15 ml]
