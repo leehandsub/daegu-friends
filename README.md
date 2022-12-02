@@ -92,6 +92,16 @@ https://dishesdelish.com/wp-content/uploads/2020/03/Grasshopper-cocktail-closeup
 
 
 
+## title: 네그로니(Negroni)
+
+### image:
+https://w.namu.la/s/c562c5a01fa35345bc8653d32e986c1911fc57d378eeb90e7553258c02993a5102ab4d7e126aedf0232576bc6ea4b8e26af497e30d80460ea446bdaab3bf4a3f7feadb8dab9227709449c6e30cd52d08d669e3731827b36b436bbc56b41a203a7e2706e8bd2a82e7535bb318f031f55a
+### desc: 
+잔 20000원
+[잔-6온스 락(180ml), 드라이 진 - 30ml, 캄파리 - 30ml, 스위트 버머스 - 30ml, 슬라이스 레몬 - 1조각]
+이탈리아의 귀족 카미로 네그로니 백작이 피렌체의 카소니라는 레스토라에서 이 칵테일을 식전주로 좋아했기 때문이었다고 한다. 그 후 1962년 이 레스토랑의 바텐더가 백작의 허가를 얻어 발표한 것이다. 캄파리의 씁쓸한 맛에 단맛의 버머스가 곁들여져 우아한 백작의 식전주로 애음되고 있다.
+
+
 ## store
 
 get
